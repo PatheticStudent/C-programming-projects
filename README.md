@@ -1,2 +1,2 @@
 # C-Programming-Projects
-I have made 2 simple games using C programming
+Some of the simple projects made by me
